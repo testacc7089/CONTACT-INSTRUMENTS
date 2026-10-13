@@ -1,0 +1,12 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Client-side routes. Existing files in dist, including JS and images, are served as themselves.
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

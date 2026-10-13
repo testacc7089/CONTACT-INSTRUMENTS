@@ -25,7 +25,13 @@ npm run build
 npm run preview
 ```
 
-`npm run build` type-checks the project and writes the static site to `dist/`. Deploy the contents of `dist/` to any static host. The host must serve `index.html` for `/about`, `/services`, `/applications`, `/contact`, `/products`, and `/products/:slug`, because those are client-side routes. If the site will live in a subfolder rather than at the domain root, set `base` in `vite.config.ts` before building.
+`npm run build` type-checks the project and writes the static site to `dist/`. Deploy the contents of `dist/`, not the repository root. The source `index.html` points at `/src/main.tsx`, which a static host will not run. The built `dist/index.html` points at a compiled JavaScript file.
+
+## Netlify
+
+`netlify.toml` sets the build command to `npm run build` and the publish directory to `dist`. In the Netlify UI, the publish directory must not be left as the repository root, or the next deploy will still serve the unbuilt source. Trigger a new deploy after that file is on the branch Netlify builds.
+
+`public/_redirects` is copied into `dist` so routes such as `/products` and `/about` open the app instead of a 404.
 
 ## Edit the business details
 
