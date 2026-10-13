@@ -1,0 +1,170 @@
+{
+  "sourceNote": "Names, brands, prices, and specifications below are taken from the Contact Instruments product listings published on Exporters India. They are not a live stock list. Confirm the price, capacity, and availability with the team before you buy.",
+  "sourceUrl": "https://www.exportersindia.com/contact-instruments/",
+  "products": [
+    {
+      "slug": "sansui-electronic-table-top-scale",
+      "name": "Sansui Electronic Table Top Scale",
+      "category": "Table-top scales",
+      "summary": "A digital table-top scale listed for general weighing, with a mild-steel and stainless-steel body.",
+      "priceInr": null,
+      "priceLabel": "Price on request",
+      "moq": "5 pieces",
+      "brand": "Black Sansui",
+      "specs": [
+        { "label": "Display", "value": "Digital" },
+        { "label": "Series", "value": "Table top" },
+        { "label": "Capacity", "value": "30 kg" },
+        { "label": "Accuracy", "value": "1 gm" },
+        { "label": "Size", "value": "300 x 230 mm" },
+        { "label": "Material", "value": "Mild steel and stainless steel" },
+        { "label": "Use", "value": "Weighing" }
+      ],
+      "images": []
+    },
+    {
+      "slug": "digital-bench-weighing-scale",
+      "name": "Digital Bench Weighing Scale",
+      "category": "Bench scales",
+      "summary": "A digital bench scale listed for everyday weighing, with a six-digit display and battery backup.",
+      "priceInr": 5550,
+      "priceLabel": "₹5,550 / piece",
+      "moq": "5 pieces",
+      "brand": "Black Sansui",
+      "specs": [
+        { "label": "Material", "value": "Mild steel" },
+        { "label": "Display", "value": "Digital, 6 digits" },
+        { "label": "Series", "value": "Platform scale" },
+        { "label": "Capacity", "value": "75 kg" },
+        { "label": "Accuracy", "value": "10 gm" },
+        { "label": "Size", "value": "400 x 400 mm" },
+        { "label": "Class", "value": "III" },
+        { "label": "Battery", "value": "6 V, about 24 hours backup" },
+        { "label": "Use", "value": "Weighing" }
+      ],
+      "images": [
+        {
+          "src": "/images/platform-scale.jpg",
+          "alt": "Reference photograph of a platform scale with a diamond-plate top. Not a photograph of this listed model.",
+          "reference": true
+        }
+      ]
+    },
+    {
+      "slug": "mild-steel-platform-weighing-scale",
+      "name": "Mild Steel Platform Weighing Scale",
+      "category": "Platform scales",
+      "summary": "A mild-steel platform scale listed for heavier weighing, with a 750 by 750 millimetre platform.",
+      "priceInr": 16500,
+      "priceLabel": "₹16,500 / piece",
+      "moq": "3 pieces",
+      "brand": "LG Electro",
+      "specs": [
+        { "label": "Material", "value": "Mild steel" },
+        { "label": "Series", "value": "Platform scale" },
+        { "label": "Capacity", "value": "1 ton" },
+        { "label": "Accuracy", "value": "200 gm" },
+        { "label": "Size", "value": "750 x 750 mm" },
+        { "label": "Display", "value": "6 digits" },
+        { "label": "Class", "value": "III" },
+        { "label": "Battery", "value": "6 V, about 24 hours backup" },
+        { "label": "Use", "value": "Weighing" }
+      ],
+      "images": [
+        {
+          "src": "/images/platform-scale.jpg",
+          "alt": "Reference photograph of a platform scale. Not a photograph of the LG Electro model.",
+          "reference": true
+        }
+      ]
+    },
+    {
+      "slug": "electronic-crane-scale",
+      "name": "Electronic Crane Scale",
+      "category": "Crane scales",
+      "summary": "An electric crane scale listed for overhead lifting, with a stated maximum load of 5 ton.",
+      "priceInr": 28500,
+      "priceLabel": "₹28,500 / piece",
+      "moq": "3 pieces",
+      "brand": null,
+      "specs": [
+        { "label": "Power", "value": "Electric" },
+        { "label": "Maximum load", "value": "5 ton" },
+        { "label": "Accuracy", "value": "500 gm" },
+        { "label": "Material", "value": "Mild steel" },
+        { "label": "Heat proof", "value": "Listed as yes" },
+        { "label": "Use", "value": "Overhead cranes" }
+      ],
+      "images": []
+    },
+    {
+      "slug": "digital-baby-weighing-scale",
+      "name": "Digital Baby Weighing Scale",
+      "category": "Baby weighing scales",
+      "summary": "A digital baby scale listed for hospital use, with a stainless-steel pan.",
+      "priceInr": 11555,
+      "priceLabel": "₹11,555 / piece",
+      "moq": "5 pieces",
+      "brand": "Goonj",
+      "specs": [
+        { "label": "Display", "value": "Digital" },
+        { "label": "Operation", "value": "Fully automatic" },
+        { "label": "Pan", "value": "Stainless steel" },
+        { "label": "Size", "value": "500 x 600 mm" },
+        { "label": "Maximum capacity", "value": "80 kg" },
+        { "label": "Accuracy", "value": "10 gm" },
+        { "label": "Use", "value": "Hospital" }
+      ],
+      "images": []
+    },
+    {
+      "slug": "jewellery-weighing-scale",
+      "name": "Jewellery Weighing Scale",
+      "category": "Jewellery scales",
+      "summary": "A compact electric scale listed for jewellery weighing, with a fine stated accuracy.",
+      "priceInr": 14500,
+      "priceLabel": "₹14,500 / piece",
+      "moq": null,
+      "brand": "JC Electronic",
+      "specs": [
+        { "label": "Material", "value": "ABS plastic" },
+        { "label": "Power", "value": "12 V, electric" },
+        { "label": "Capacity", "value": "6 kg" },
+        { "label": "Accuracy", "value": "10 mg" },
+        { "label": "Use", "value": "Jewellery weighing" }
+      ],
+      "images": []
+    },
+    {
+      "slug": "pitless-weighbridge",
+      "name": "Pitless Weighbridge",
+      "category": "Weighbridges",
+      "summary": "A digital pitless weighbridge listed for vehicle weighing, with four load cells and an 8 by 3 metre deck.",
+      "priceInr": 550000,
+      "priceLabel": "₹5.50 lakh / piece",
+      "moq": null,
+      "brand": null,
+      "specs": [
+        { "label": "Material", "value": "Mild steel" },
+        { "label": "Type", "value": "Digital, pitless" },
+        { "label": "Weighing capacity", "value": "60 ton" },
+        { "label": "Size", "value": "8 x 3 metre" },
+        { "label": "Accuracy", "value": "5 kg" },
+        { "label": "Load cells", "value": "4" },
+        { "label": "Use", "value": "Weighing" }
+      ],
+      "images": [
+        {
+          "src": "/images/weighbridge-jemera.jpg",
+          "alt": "Reference photograph of a steel weighbridge deck. Not a photograph of this listed weighbridge.",
+          "reference": true
+        },
+        {
+          "src": "/images/weighbridge-system.jpg",
+          "alt": "Reference photograph of a truck on a weighbridge. Not an installation by Contact Instruments.",
+          "reference": true
+        }
+      ]
+    }
+  ]
+}
